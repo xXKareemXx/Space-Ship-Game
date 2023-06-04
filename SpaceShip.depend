@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1685877027 source:/Users/kareem/Documents/Term8/Graphics/GraphicsSec/SpaceShip/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"Asteroids.cpp"
+
+1685876932 source:/Users/kareem/Documents/Term8/Graphics/GraphicsSec/SpaceShip/Asteroids.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1685876932 /Users/kareem/Documents/Term8/Graphics/GraphicsSec/SpaceShip/Asteroids.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
