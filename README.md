@@ -21,4 +21,4 @@ You are required to implement "Space Rocket" game for this semester's project:
 - The user can destroy asteroids by: Aligning the laser beam with the asteroid and selecting the same color as asteroid.
 - When an asteroid is successfully destroyed, the score increases by one point.
 - There is a time limit of 20 seconds, after which the "Time's Up" screen is displayed with the user's final score.
-- The user can press on F1 to restart the game.
+- The user can press on **F1** to restart the game.
