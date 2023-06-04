@@ -24,4 +24,4 @@ You are required to implement "Space Rocket" game for this semester's project:
 - The user can press on **F1** to restart the game.
 
 ## Demo Video
-[![SpaceRocket.webm](https://drive.google.com/uc?id=1cppddHD1RfIxO0HvHZp1VQX3fgNb2fxt/view?usp=sharing&export=download)](https://drive.google.com/file/d/1cppddHD1RfIxO0HvHZp1VQX3fgNb2fxt/view?usp=sharing/view)
+[![SpaceRocket.webm](https://drive.google.com/uc?id=1cppddHD1RfIxO0HvHZp1VQX3fgNb2fxt/view?usp=sharing&export=download)](https://drive.google.com/file/d/1cppddHD1RfIxO0HvHZp1VQX3fgNb2fxt/view)
