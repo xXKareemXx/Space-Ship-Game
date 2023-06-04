@@ -22,3 +22,6 @@ You are required to implement "Space Rocket" game for this semester's project:
 - When an asteroid is successfully destroyed, the score increases by one point.
 - There is a time limit of 20 seconds, after which the "Time's Up" screen is displayed with the user's final score.
 - The user can press on **F1** to restart the game.
+
+## Demo Video
+[![SpaceRocket.webm](https://drive.google.com/uc?id=1cppddHD1RfIxO0HvHZp1VQX3fgNb2fxt/view?usp=sharing&export=download)](https://drive.google.com/file/d/1cppddHD1RfIxO0HvHZp1VQX3fgNb2fxt/view?usp=sharing/view)
